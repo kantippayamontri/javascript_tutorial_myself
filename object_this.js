@@ -17,3 +17,4 @@ this.apple(); //this is window object
 //this.user.saymyname();
 console.log(user.name);
 this.apple();
+user.sayname();
