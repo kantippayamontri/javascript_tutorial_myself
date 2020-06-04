@@ -5,7 +5,7 @@ todo.push("eight");
 todo.pop(); //Removes the last element from an array and returns it.
 todo.shift(); //remove first element
 todo.unshift("a new one"); //add data first element
-console.log(todo);
+console.log(todo.length);
 console.log(todo.indexOf("first")); //not found return -1
 console.log(todo.indexOf("second"));
 

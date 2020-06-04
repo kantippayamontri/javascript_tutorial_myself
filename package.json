@@ -1,0 +1,22 @@
+{
+  "name": "javascript_tutorial_myself",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kantippayamontri/javascript_tutorial_myself.git"
+  },
+  "author": "kan tip",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kantippayamontri/javascript_tutorial_myself/issues"
+  },
+  "homepage": "https://github.com/kantippayamontri/javascript_tutorial_myself#readme",
+  "dependencies": {
+    "endomondo-api-handler": "^6.8.0"
+  }
+}
